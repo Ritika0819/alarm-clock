@@ -1,0 +1,2 @@
+# alarm-clock
+Modelled in Verilog, alarm clock synthesised is functional to be used as daily use alarm clock. User can set an alarm in this clock.The Verilog code for an alarm clock involves defining the various components and their connections within the circuit, specifying their functionalities and behaviours. This includes defining clock signals, input/output signals, and the logic for controlling the display, alarm settings, triggering the alarm sound and snooze feature.
